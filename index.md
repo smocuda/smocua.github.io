@@ -26,7 +26,7 @@
 </head>
 <body>
 
-<button class="btn"><i class="fa fa-download"></i> Download smoking cues</button> <button class="btn"><i class="fa fa-download"></i> Download publication</button>
+<button class="btn"><i class="fa fa-download"></i> Download smoking cues</button> <button class="btn"><i class="fa fa-download"></i> Download publication (coming soon)</button>
 
 </body>
 </html>
@@ -35,12 +35,10 @@
 
 ### About
 
-What is SmoCuDa?  
-Why did we create SmoCuDa?
+SmoCuDa is a free open access database of 250 smoking-related images. All images were taken from open and free-to-use photo websites (creative commons license) and were chosen to cover a widespread variety of cigarette-associated content (e.g. cigarettes, ashtrays, smokers of different ages and genders). Further, all images have been rated, tested and validated by, to date, more than 40 mild to heavy smokers. These ratings show that SmoCuDa images cover a wide range of intensities along the stimulus dimensions "craving", "arousal", and "valence". Thus, SmoCuDa images are suited particularly well to investigate cue-induced behavior and neural activity over a large continuum of intensities.
 
 ### Reference
 
-Link to publication
 
 ### Smoking Cues
 
