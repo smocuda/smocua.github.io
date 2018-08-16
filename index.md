@@ -39,6 +39,7 @@ SmoCuDa is a free open access database of 250 smoking-related images. All images
 
 ### Reference
 
+More detailed information on image ratings, cross-validations with other image databases (IAPS and ISIS), and on image-driven brain activity will soon be published. Please contact us for any questions prior to publication (amelie.haugg(AT)uzh.ch, andrei.manoliu(AT)puk.zh.ch, frank.scharnowski(AT)uzh.ch).
 
 ### Smoking Cues
 
