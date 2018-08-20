@@ -42,7 +42,7 @@ SmoCuDa is a free open access database of 250 smoking-related images. All images
 
 ### Smoking Cues
 
-To download the images click the button above or the following link:
+To download the images please click the button above or the following link:
 <a href="https://www.dropbox.com/s/9n6lkjn54yvucpm/SmoCuDa.zip?dl=0">download here</a>
 
 
@@ -60,7 +60,7 @@ SmoCuDa images were rated by 40 smokers (age = 26.12±5.74 years; 20 females, 19
 
 Results from paper (figures + captions)
 
-### Cross-validation with IAPS and ISIS
+### Cross-validation with other image databases
 
 Table that gives information on what IAPS and ISIS images were used for cross-validation   
 Results from paper on cross-validation (images + captions)
