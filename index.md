@@ -43,24 +43,7 @@ SmoCuDa is a free open access database of 250 smoking-related images. All images
 To download the images click the button above or the following link:
 <a href="https://www.dropbox.com/s/9n6lkjn54yvucpm/SmoCuDa.zip?dl=0">download here</a>
 
-<input type="button" value="Download" onclick="window.open('https://www.dropbox.com/s/9n6lkjn54yvucpm/SmoCuDa.zip?dl=0')"></input>
-
-.btn {
-    background-color: #339966;
-    border: none;
-    color: white;
-    padding: 12px 30px;
-    cursor: pointer;
-    font-size: 20px;
-}
-
-/* Darker background on mouse-over */
-.btn:hover {
-    background-color: #1d583b
-;
-}
-
-<a href="https://www.dropbox.com/s/9n6lkjn54yvucpm/SmoCuDa.zip?dl=0" download= "download here" class="btn">click me</a>
+<a href="https://www.dropbox.com/s/9n6lkjn54yvucpm/SmoCuDa.zip?dl=0" download= "SmoCuDa" class="btn">Download smoking cues</a>
 
 
 ### Reference
