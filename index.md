@@ -27,7 +27,11 @@
 </head>
 <body>
 
-<button class="btn"><i class="fa fa-download"></i> Download smoking cues</button> <button class="btn"><i class="fa fa-download"></i> Download publication (coming soon)</button>
+<button class="btn"><i class="fa fa-download"></i> Download smoking cues</button>
+
+<a href="https://www.dropbox.com/s/9n6lkjn54yvucpm/SmoCuDa.zip?dl=0" download= "SmoCuDa" class="btn"> </i> Download smoking cues </a>
+
+<button class="btn"><i class="fa fa-download"></i> Download publication (coming soon)</button>
 
 </body>
 </html>
