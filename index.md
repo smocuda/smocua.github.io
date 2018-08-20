@@ -58,12 +58,11 @@ SmoCuDa images were rated by 40 smokers (age = 26.12±5.74 years; 20 females, 19
 
 ### Ratings
 
-Results from paper (figures + captions)
+Ratings will be put online after publication. Please contact us for any questions prior to publication.
 
 ### Cross-validation with other image databases
 
-Table that gives information on what IAPS and ISIS images were used for cross-validation   
-Results from paper on cross-validation (images + captions)
+Cross-validations with oter image databases will be put online after publication. Please contact us for any questions prior to publication.
 
 ## Contact information
 
