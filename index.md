@@ -37,13 +37,13 @@
 
 SmoCuDa is a free open access database of 250 smoking-related images. All images were taken from open and free-to-use photo websites (creative commons license) and were chosen to cover a widespread variety of cigarette-associated content (e.g. cigarettes, ashtrays, smokers of different ages and genders). Further, all images have been rated, tested and validated by, to date, 40 mild to heavy smokers. These ratings demonstrate that SmoCuDa images cover a wide range of intensities along the stimulus dimensions "craving", "arousal", and "valence". Thus, SmoCuDa images are suited particularly well to investigate cue-induced behavior and neural activity over a large continuum of intensities.
 
-### Reference
-
-More detailed information on image ratings, cross-validations with other image databases (International Affective Picture System; and International Smoking Image Series), and on image-driven brain activity will soon be published. Please contact us for any questions prior to publication (amelie.haugg(AT)uzh.ch, andrei.manoliu(AT)puk.zh.ch, frank.scharnowski(AT)uzh.ch).
-
 ### Smoking Cues
 
 To download a zip file of the images, click on the button above, or the following link:
+
+### Reference
+
+More detailed information on image ratings, cross-validations with other image databases (International Affective Picture System; and International Smoking Image Series), and on image-driven brain activity will soon be published. Please contact us for any questions prior to publication (amelie.haugg(AT)uzh.ch, andrei.manoliu(AT)puk.zh.ch, frank.scharnowski(AT)uzh.ch).
 
 ## Documentation
 
