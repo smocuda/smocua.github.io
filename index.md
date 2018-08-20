@@ -8,6 +8,7 @@
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
+    
 .btn {
     background-color: #339966;
     border: none;
@@ -40,6 +41,8 @@ SmoCuDa is a free open access database of 250 smoking-related images. All images
 ### Smoking Cues
 
 To download a zip file of the images, click on the button above, or the following link:
+<a href="https://www.dropbox.com/s/9n6lkjn54yvucpm/SmoCuDa.zip?dl=0">download here</a>
+
 
 ### Reference
 
