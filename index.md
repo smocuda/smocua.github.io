@@ -40,7 +40,7 @@ SmoCuDa is a free open access database of 250 smoking-related images. All images
 
 ### Smoking Cues
 
-To download the images, click on the button above, or the following link:
+To download the images click the button above or the following link:
 <a href="https://www.dropbox.com/s/9n6lkjn54yvucpm/SmoCuDa.zip?dl=0">download here</a>
 
 
