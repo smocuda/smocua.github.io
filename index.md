@@ -43,6 +43,8 @@ SmoCuDa is a free open access database of 250 smoking-related images. All images
 To download the images click the button above or the following link:
 <a href="https://www.dropbox.com/s/9n6lkjn54yvucpm/SmoCuDa.zip?dl=0">download here</a>
 
+<a href="https://www.dropbox.com/s/9n6lkjn54yvucpm/SmoCuDa.zip?dl=0" download="proposed_file_name">Download</a>
+
 
 ### Reference
 
