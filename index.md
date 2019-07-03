@@ -27,7 +27,7 @@
 </head>
 <body>
 
-<a href="https://www.dropbox.com/s/9n6lkjn54yvucpm/SmoCuDa.zip?dl=0" download= "SmoCuDa" class="btn">Download smoking cues</a>
+<a href="https://osf.io/6gwy5/files/" download= "SmoCuDa" class="btn">Download smoking cues</a>
 
 <button class="btn"><i class="fa fa-download"></i> Download publication (coming soon)</button>
 
@@ -43,7 +43,7 @@ SmoCuDa is a free open access database of 250 smoking-related images. All images
 ### Smoking Cues
 
 To download the images please click the button above or the following link:
-<a href="https://www.dropbox.com/s/9n6lkjn54yvucpm/SmoCuDa.zip?dl=0">download here</a>
+<a href="https://osf.io/6gwy5/files/">download here</a>
 
 
 ### Reference
