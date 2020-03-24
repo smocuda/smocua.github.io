@@ -58,7 +58,7 @@ SmoCuDa images were rated by 40 smokers (age = 26.12±5.74 years; 20 females, 19
 
 ### Ratings
 
-Ratings will be put online after publication. Please contact us for any questions prior to publication.
+Information on image ratings can be downloaded <a href="https://osf.io/78ya4/">here</a>. Further information on image ratings and the image rating process will be made available after publication. Please contact us for any questions prior to publication.
 
 ### Cross-validation with other image databases
 
