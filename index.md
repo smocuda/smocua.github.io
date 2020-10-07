@@ -29,7 +29,7 @@
 
 <a href="https://osf.io/6gwy5/files/" download= "SmoCuDa" class="btn">Download smoking cues</a>
 
-<button class="btn"><i class="fa fa-download"></i> Download publication (coming soon)</button>
+<a href="https://www.karger.com/Article/FullText/509758" download= "SmoCuDa" class="btn">Link to publication</a>
 
 </body>
 </html>
