@@ -62,11 +62,11 @@ SmoCuDa images were rated by 40 smokers (age = 26.12±5.74 years; 20 females, 19
 
 ### Ratings
 
-Information on image ratings can be downloaded <a href="https://osf.io/78ya4/">here</a>. Further information on image ratings and the image rating are made available in the SmoCuDa <a href="https://www.karger.com/Article/FullText/509758">manuscript</a> and our Open Science Framework <a href="https://osf.io/6gwy5/">project folder</a>. 
+An EXCEL file with information on image ratings can be downloaded <a href="https://osf.io/78ya4/">here</a>. Further information on image ratings are available in the SmoCuDa <a href="https://www.karger.com/Article/FullText/509758">manuscript</a> and our Open Science Framework <a href="https://osf.io/6gwy5/">project folder</a>. 
 
 ### Cross-validation with other image databases
 
-Cross-validations with other image databases are quickly discussed in the SmoCuDa <a href="https://www.karger.com/Article/FullText/509758">manuscript</a>, with more detailed information in the Supplemntal Material.
+Cross-validations with other image databases are quickly discussed in the SmoCuDa <a href="https://www.karger.com/Article/FullText/509758">manuscript</a>, with more detailed information available in the Supplemntal Material.
 
 ## Contact information
 
