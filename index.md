@@ -49,7 +49,9 @@ To download the images please click the button above or the following link:
 ### Reference
 
 More detailed information on image ratings, cross-validations with other image databases (International Affective Picture System; and International Smoking Image Series), and on image-driven brain activity are available in our paper:
+
 Manoliu, A., Haugg, A., Sladky, R., Hulka, L., Kirschner, M., Brühl, A. B., ... & Scharnowski, F. (2020). SmoCuDa: A Validated Smoking Cue Database to Reliably Induce Craving in Tobacco Use Disorder. European Addiction Research, 1-8.
+
 To download the paper please click the button above or the following link:
 <a href="https://www.karger.com/Article/FullText/509758">download here</a>.
 Please contact us for any questions prior to publication (amelie.haugg(AT)uzh.ch, andrei.manoliu(AT)puk.zh.ch, frank.scharnowski(AT)uzh.ch).
